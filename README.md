@@ -1,6 +1,1 @@
-http://www.ivue.ru/files/dloads/soft/web/
-
-
-router is awesome 
-
-phdaysiot\phdaysiot7
+Address is 188.166.30.118
